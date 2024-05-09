@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kubag\\Desktop\\CQRS-Example\\CqrsExampleApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7C88C9-60B3-490C-BA75-699CA1D2E714}|CqrsExampleApi.csproj|c:\\users\\kubag\\desktop\\cqrs-example\\cqrsexampleapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7C88C9-60B3-490C-BA75-699CA1D2E714}|CqrsExampleApi.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7C88C9-60B3-490C-BA75-699CA1D2E714}|CqrsExampleApi.csproj|c:\\users\\kubag\\desktop\\cqrs-example\\cqrsexampleapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7C88C9-60B3-490C-BA75-699CA1D2E714}|CqrsExampleApi.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7C88C9-60B3-490C-BA75-699CA1D2E714}|CqrsExampleApi.csproj|c:\\users\\kubag\\desktop\\cqrs-example\\cqrsexampleapi\\commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7C88C9-60B3-490C-BA75-699CA1D2E714}|CqrsExampleApi.csproj|solutionrelative:commands\\createproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7C88C9-60B3-490C-BA75-699CA1D2E714}|CqrsExampleApi.csproj|c:\\users\\kubag\\desktop\\cqrs-example\\cqrsexampleapi\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7C88C9-60B3-490C-BA75-699CA1D2E714}|CqrsExampleApi.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7C88C9-60B3-490C-BA75-699CA1D2E714}|CqrsExampleApi.csproj|c:\\users\\kubag\\desktop\\cqrs-example\\cqrsexampleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1A7C88C9-60B3-490C-BA75-699CA1D2E714}|CqrsExampleApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7C88C9-60B3-490C-BA75-699CA1D2E714}|CqrsExampleApi.csproj|c:\\users\\kubag\\desktop\\cqrs-example\\cqrsexampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7C88C9-60B3-490C-BA75-699CA1D2E714}|CqrsExampleApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7C88C9-60B3-490C-BA75-699CA1D2E714}|CqrsExampleApi.csproj|c:\\users\\kubag\\desktop\\cqrs-example\\cqrsexampleapi\\queries\\getproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7C88C9-60B3-490C-BA75-699CA1D2E714}|CqrsExampleApi.csproj|solutionrelative:queries\\getproductquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7C88C9-60B3-490C-BA75-699CA1D2E714}|CqrsExampleApi.csproj|c:\\users\\kubag\\desktop\\cqrs-example\\cqrsexampleapi\\cqrsexampleapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A7C88C9-60B3-490C-BA75-699CA1D2E714}|CqrsExampleApi.csproj|solutionrelative:cqrsexampleapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\kubag\\Desktop\\CQRS-Example\\CqrsExampleApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\kubag\\Desktop\\CQRS-Example\\CqrsExampleApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:16:22.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kubag\\Desktop\\CQRS-Example\\CqrsExampleApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\kubag\\Desktop\\CQRS-Example\\CqrsExampleApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T15:15:45.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetProductQuery.cs",
+              "DocumentMoniker": "C:\\Users\\kubag\\Desktop\\CQRS-Example\\CqrsExampleApi\\Queries\\GetProductQuery.cs",
+              "RelativeDocumentMoniker": "Queries\\GetProductQuery.cs",
+              "ToolTip": "C:\\Users\\kubag\\Desktop\\CQRS-Example\\CqrsExampleApi\\Queries\\GetProductQuery.cs",
+              "RelativeToolTip": "Queries\\GetProductQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:15:15.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateProductCommand.cs",
+              "DocumentMoniker": "C:\\Users\\kubag\\Desktop\\CQRS-Example\\CqrsExampleApi\\Commands\\CreateProductCommand.cs",
+              "RelativeDocumentMoniker": "Commands\\CreateProductCommand.cs",
+              "ToolTip": "C:\\Users\\kubag\\Desktop\\CQRS-Example\\CqrsExampleApi\\Commands\\CreateProductCommand.cs",
+              "RelativeToolTip": "Commands\\CreateProductCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:14:46.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kubag\\Desktop\\CQRS-Example\\CqrsExampleApi\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\kubag\\Desktop\\CQRS-Example\\CqrsExampleApi\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:12:58.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kubag\\Desktop\\CQRS-Example\\CqrsExampleApi\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kubag\\Desktop\\CQRS-Example\\CqrsExampleApi\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:09:32.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CqrsExampleApi",
+              "DocumentMoniker": "C:\\Users\\kubag\\Desktop\\CQRS-Example\\CqrsExampleApi\\CqrsExampleApi.csproj",
+              "RelativeDocumentMoniker": "CqrsExampleApi.csproj",
+              "ToolTip": "C:\\Users\\kubag\\Desktop\\CQRS-Example\\CqrsExampleApi\\CqrsExampleApi.csproj",
+              "RelativeToolTip": "CqrsExampleApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-09T15:07:07.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kubag\\Desktop\\CQRS-Example\\CqrsExampleApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kubag\\Desktop\\CQRS-Example\\CqrsExampleApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:06:20.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
